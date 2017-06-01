@@ -60,3 +60,6 @@ ConditionalStatementsAndLoops_Exercises(CBasics–MoreExercises)
  - P06_DNASequences
  - P07_TrainingHallEquipment
  - P08_SMSTyping
+ 
+ 
+ In javaProgramming directory i upload problems from first class Programming Basics - Java
