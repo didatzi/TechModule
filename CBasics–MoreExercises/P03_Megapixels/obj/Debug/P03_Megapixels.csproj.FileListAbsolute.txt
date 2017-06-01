@@ -1,0 +1,5 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P03_Megapixels\bin\Debug\P03_Megapixels.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P03_Megapixels\bin\Debug\P03_Megapixels.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P03_Megapixels\bin\Debug\P03_Megapixels.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P03_Megapixels\obj\Debug\P03_Megapixels.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P03_Megapixels\obj\Debug\P03_Megapixels.pdb

@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P05_WordInPlural\bin\Debug\P05_WordInPlural.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P05_WordInPlural\bin\Debug\P05_WordInPlural.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P05_WordInPlural\bin\Debug\P05_WordInPlural.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P05_WordInPlural\obj\Debug\P05_WordInPlural.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P05_WordInPlural\obj\Debug\P05_WordInPlural.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P05_WordInPlural\obj\Debug\P05_WordInPlural.pdb

@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P06_DNASequences\bin\Debug\P06_DNASequences.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P06_DNASequences\bin\Debug\P06_DNASequences.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P06_DNASequences\bin\Debug\P06_DNASequences.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P06_DNASequences\obj\Debug\P06_DNASequences.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P06_DNASequences\obj\Debug\P06_DNASequences.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P06_DNASequences\obj\Debug\P06_DNASequences.pdb

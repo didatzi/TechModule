@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P09_RefactorSpecialNumbers\bin\Debug\P09_RefactorSpecialNumbers.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P09_RefactorSpecialNumbers\bin\Debug\P09_RefactorSpecialNumbers.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P09_RefactorSpecialNumbers\bin\Debug\P09_RefactorSpecialNumbers.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P09_RefactorSpecialNumbers\obj\Debug\P09_RefactorSpecialNumbers.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P09_RefactorSpecialNumbers\obj\Debug\P09_RefactorSpecialNumbers.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P09_RefactorSpecialNumbers\obj\Debug\P09_RefactorSpecialNumbers.pdb

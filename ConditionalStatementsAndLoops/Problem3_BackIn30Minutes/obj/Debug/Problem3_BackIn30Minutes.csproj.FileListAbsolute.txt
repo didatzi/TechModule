@@ -1,0 +1,11 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem3_BackIn30Minutes\bin\Debug\Problem3_BackIn30Minutes.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem3_BackIn30Minutes\bin\Debug\Problem3_BackIn30Minutes.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem3_BackIn30Minutes\bin\Debug\Problem3_BackIn30Minutes.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem3_BackIn30Minutes\obj\Debug\Problem3_BackIn30Minutes.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem3_BackIn30Minutes\obj\Debug\Problem3_BackIn30Minutes.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem3_BackIn30Minutes\bin\Debug\Problem3_BackIn30Minutes.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem3_BackIn30Minutes\bin\Debug\Problem3_BackIn30Minutes.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem3_BackIn30Minutes\bin\Debug\Problem3_BackIn30Minutes.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem3_BackIn30Minutes\obj\Debug\Problem3_BackIn30Minutes.csprojResolveAssemblyReference.cache
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem3_BackIn30Minutes\obj\Debug\Problem3_BackIn30Minutes.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem3_BackIn30Minutes\obj\Debug\Problem3_BackIn30Minutes.pdb

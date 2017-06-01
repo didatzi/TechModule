@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P10_TriangleOfNumbers\bin\Debug\P10_TriangleOfNumbers.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P10_TriangleOfNumbers\bin\Debug\P10_TriangleOfNumbers.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P10_TriangleOfNumbers\bin\Debug\P10_TriangleOfNumbers.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P10_TriangleOfNumbers\obj\Debug\P10_TriangleOfNumbers.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P10_TriangleOfNumbers\obj\Debug\P10_TriangleOfNumbers.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P10_TriangleOfNumbers\obj\Debug\P10_TriangleOfNumbers.csprojResolveAssemblyReference.cache

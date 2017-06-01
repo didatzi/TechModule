@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P06_TriplesOfLatinLetters\bin\Debug\P06_TriplesOfLatinLetters.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P06_TriplesOfLatinLetters\bin\Debug\P06_TriplesOfLatinLetters.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P06_TriplesOfLatinLetters\bin\Debug\P06_TriplesOfLatinLetters.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P06_TriplesOfLatinLetters\obj\Debug\P06_TriplesOfLatinLetters.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P06_TriplesOfLatinLetters\obj\Debug\P06_TriplesOfLatinLetters.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P06_TriplesOfLatinLetters\obj\Debug\P06_TriplesOfLatinLetters.pdb

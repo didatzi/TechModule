@@ -1,0 +1,12 @@
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P04_Hotel\bin\Debug\P04_Hotel.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P04_Hotel\bin\Debug\P04_Hotel.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P04_Hotel\bin\Debug\P04_Hotel.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P04_Hotel\obj\Debug\P04_Hotel.csprojResolveAssemblyReference.cache
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P04_Hotel\obj\Debug\P04_Hotel.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P04_Hotel\obj\Debug\P04_Hotel.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P04_Hotel\bin\Debug\P04_Hotel.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P04_Hotel\bin\Debug\P04_Hotel.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P04_Hotel\bin\Debug\P04_Hotel.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P04_Hotel\obj\Debug\P04_Hotel.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P04_Hotel\obj\Debug\P04_Hotel.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P04_Hotel\obj\Debug\P04_Hotel.pdb

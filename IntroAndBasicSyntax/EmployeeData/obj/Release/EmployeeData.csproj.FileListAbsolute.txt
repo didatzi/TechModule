@@ -1,0 +1,11 @@
+C:\Users\Deyan Yordanov\OneDrive\javaProgramming\C#Programming\Visual C#\Projects\ConsoleApp1\EmployeeData\bin\Release\EmployeeData.exe.config
+C:\Users\Deyan Yordanov\OneDrive\javaProgramming\C#Programming\Visual C#\Projects\ConsoleApp1\EmployeeData\bin\Release\EmployeeData.exe
+C:\Users\Deyan Yordanov\OneDrive\javaProgramming\C#Programming\Visual C#\Projects\ConsoleApp1\EmployeeData\bin\Release\EmployeeData.pdb
+C:\Users\Deyan Yordanov\OneDrive\javaProgramming\C#Programming\Visual C#\Projects\ConsoleApp1\EmployeeData\obj\Release\EmployeeData.exe
+C:\Users\Deyan Yordanov\OneDrive\javaProgramming\C#Programming\Visual C#\Projects\ConsoleApp1\EmployeeData\obj\Release\EmployeeData.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\EmployeeData\bin\Release\EmployeeData.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\EmployeeData\bin\Release\EmployeeData.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\EmployeeData\bin\Release\EmployeeData.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\EmployeeData\obj\Release\EmployeeData.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\EmployeeData\obj\Release\EmployeeData.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\EmployeeData\obj\Release\EmployeeData.pdb

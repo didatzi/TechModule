@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P01_X\bin\Debug\P01_X.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P01_X\bin\Debug\P01_X.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P01_X\bin\Debug\P01_X.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P01_X\obj\Debug\P01_X.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P01_X\obj\Debug\P01_X.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P01_X\obj\Debug\P01_X.pdb

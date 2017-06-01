@@ -1,0 +1,6 @@
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P01_ChooseDrink\bin\Debug\P01_ChooseDrink.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P01_ChooseDrink\bin\Debug\P01_ChooseDrink.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P01_ChooseDrink\bin\Debug\P01_ChooseDrink.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P01_ChooseDrink\obj\Debug\P01_ChooseDrink.csprojResolveAssemblyReference.cache
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P01_ChooseDrink\obj\Debug\P01_ChooseDrink.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P01_ChooseDrink\obj\Debug\P01_ChooseDrink.pdb

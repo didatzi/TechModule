@@ -1,0 +1,11 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\Greeting\bin\Debug\ConsoleApp1.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\Greeting\bin\Debug\ConsoleApp1.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\Greeting\bin\Debug\ConsoleApp1.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\Greeting\obj\Debug\ConsoleApp1.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\Greeting\obj\Debug\ConsoleApp1.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\Greeting\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\Greeting\bin\Debug\ConsoleApp1.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\Greeting\bin\Debug\ConsoleApp1.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\Greeting\obj\Debug\ConsoleApp1.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\Greeting\obj\Debug\ConsoleApp1.pdb

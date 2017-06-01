@@ -1,0 +1,6 @@
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem1_Passed\bin\Debug\Problem1_Passed.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem1_Passed\bin\Debug\Problem1_Passed.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem1_Passed\bin\Debug\Problem1_Passed.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem1_Passed\obj\Debug\Problem1_Passed.csprojResolveAssemblyReference.cache
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem1_Passed\obj\Debug\Problem1_Passed.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem1_Passed\obj\Debug\Problem1_Passed.pdb

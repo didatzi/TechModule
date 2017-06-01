@@ -1,0 +1,11 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem8_SumOfOddNumbers\bin\Debug\Problem8_SumOfOddNumbers.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem8_SumOfOddNumbers\bin\Debug\Problem8_SumOfOddNumbers.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem8_SumOfOddNumbers\bin\Debug\Problem8_SumOfOddNumbers.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem8_SumOfOddNumbers\obj\Debug\Problem8_SumOfOddNumbers.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem8_SumOfOddNumbers\obj\Debug\Problem8_SumOfOddNumbers.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem8_SumOfOddNumbers\bin\Debug\Problem8_SumOfOddNumbers.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem8_SumOfOddNumbers\bin\Debug\Problem8_SumOfOddNumbers.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem8_SumOfOddNumbers\bin\Debug\Problem8_SumOfOddNumbers.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem8_SumOfOddNumbers\obj\Debug\Problem8_SumOfOddNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem8_SumOfOddNumbers\obj\Debug\Problem8_SumOfOddNumbers.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem8_SumOfOddNumbers\obj\Debug\Problem8_SumOfOddNumbers.pdb

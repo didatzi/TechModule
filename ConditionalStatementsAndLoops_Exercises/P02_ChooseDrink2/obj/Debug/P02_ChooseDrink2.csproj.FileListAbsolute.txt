@@ -1,0 +1,5 @@
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P02_ChooseDrink2\bin\Debug\P02_ChooseDrink2.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P02_ChooseDrink2\bin\Debug\P02_ChooseDrink2.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P02_ChooseDrink2\bin\Debug\P02_ChooseDrink2.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P02_ChooseDrink2\obj\Debug\P02_ChooseDrink2.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P02_ChooseDrink2\obj\Debug\P02_ChooseDrink2.pdb

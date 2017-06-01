@@ -1,0 +1,5 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P07_CakeIngredients\bin\Debug\P07_CakeIngredients.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P07_CakeIngredients\bin\Debug\P07_CakeIngredients.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P07_CakeIngredients\bin\Debug\P07_CakeIngredients.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P07_CakeIngredients\obj\Debug\P07_CakeIngredients.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P07_CakeIngredients\obj\Debug\P07_CakeIngredients.pdb

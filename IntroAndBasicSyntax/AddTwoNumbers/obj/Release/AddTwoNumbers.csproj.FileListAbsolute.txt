@@ -1,0 +1,17 @@
+C:\Users\Deyan Yordanov\OneDrive\javaProgramming\C#Programming\Visual C#\Projects\ConsoleApp1\AddTwoNumbers\bin\Release\AddTwoNumbers.exe.config
+C:\Users\Deyan Yordanov\OneDrive\javaProgramming\C#Programming\Visual C#\Projects\ConsoleApp1\AddTwoNumbers\bin\Release\AddTwoNumbers.exe
+C:\Users\Deyan Yordanov\OneDrive\javaProgramming\C#Programming\Visual C#\Projects\ConsoleApp1\AddTwoNumbers\bin\Release\AddTwoNumbers.pdb
+C:\Users\Deyan Yordanov\OneDrive\javaProgramming\C#Programming\Visual C#\Projects\ConsoleApp1\AddTwoNumbers\obj\Release\AddTwoNumbers.exe
+C:\Users\Deyan Yordanov\OneDrive\javaProgramming\C#Programming\Visual C#\Projects\ConsoleApp1\AddTwoNumbers\obj\Release\AddTwoNumbers.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\bin\Release\AddTwoNumbers.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\bin\Release\AddTwoNumbers.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\bin\Release\AddTwoNumbers.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\obj\Release\AddTwoNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\obj\Release\AddTwoNumbers.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\obj\Release\AddTwoNumbers.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\bin\Release\AddTwoNumbers.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\bin\Release\AddTwoNumbers.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\bin\Release\AddTwoNumbers.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\obj\Release\AddTwoNumbers.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\obj\Release\AddTwoNumbers.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\obj\Release\AddTwoNumbers.pdb

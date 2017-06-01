@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P08_CaloriesCounter\bin\Debug\P08_CaloriesCounter.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P08_CaloriesCounter\bin\Debug\P08_CaloriesCounter.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P08_CaloriesCounter\bin\Debug\P08_CaloriesCounter.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P08_CaloriesCounter\obj\Debug\P08_CaloriesCounter.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P08_CaloriesCounter\obj\Debug\P08_CaloriesCounter.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P08_CaloriesCounter\obj\Debug\P08_CaloriesCounter.pdb

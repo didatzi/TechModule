@@ -1,0 +1,5 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P01_IntegerAndRealNumbers\bin\Debug\P01_IntegerAndRealNumbers.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P01_IntegerAndRealNumbers\bin\Debug\P01_IntegerAndRealNumbers.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P01_IntegerAndRealNumbers\bin\Debug\P01_IntegerAndRealNumbers.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P01_IntegerAndRealNumbers\obj\Debug\P01_IntegerAndRealNumbers.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P01_IntegerAndRealNumbers\obj\Debug\P01_IntegerAndRealNumbers.pdb

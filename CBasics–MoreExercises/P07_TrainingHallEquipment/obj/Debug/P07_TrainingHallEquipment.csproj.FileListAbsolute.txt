@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P07_TrainingHallEquipment\bin\Debug\P07_TrainingHallEquipment.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P07_TrainingHallEquipment\bin\Debug\P07_TrainingHallEquipment.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P07_TrainingHallEquipment\bin\Debug\P07_TrainingHallEquipment.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P07_TrainingHallEquipment\obj\Debug\P07_TrainingHallEquipment.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P07_TrainingHallEquipment\obj\Debug\P07_TrainingHallEquipment.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P07_TrainingHallEquipment\obj\Debug\P07_TrainingHallEquipment.pdb

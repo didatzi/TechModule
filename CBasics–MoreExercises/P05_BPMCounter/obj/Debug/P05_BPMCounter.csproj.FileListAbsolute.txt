@@ -1,0 +1,12 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P05_BPMCounter\bin\Debug\P05_BPMCounter.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P05_BPMCounter\bin\Debug\P05_BPMCounter.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P05_BPMCounter\bin\Debug\P05_BPMCounter.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P05_BPMCounter\obj\Debug\P05_BPMCounter.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P05_BPMCounter\obj\Debug\P05_BPMCounter.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P05_BPMCounter\obj\Debug\P05_BPMCounter.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P05_BPMCounter\bin\Debug\P05_BPMCounter.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P05_BPMCounter\bin\Debug\P05_BPMCounter.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P05_BPMCounter\bin\Debug\P05_BPMCounter.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P05_BPMCounter\obj\Debug\P05_BPMCounter.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P05_BPMCounter\obj\Debug\P05_BPMCounter.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P05_BPMCounter\obj\Debug\P05_BPMCounter.pdb

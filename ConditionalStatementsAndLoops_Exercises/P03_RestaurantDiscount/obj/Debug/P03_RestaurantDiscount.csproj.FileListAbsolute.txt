@@ -1,0 +1,6 @@
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P03_RestaurantDiscount\bin\Debug\P03_RestaurantDiscount.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P03_RestaurantDiscount\bin\Debug\P03_RestaurantDiscount.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P03_RestaurantDiscount\bin\Debug\P03_RestaurantDiscount.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P03_RestaurantDiscount\obj\Debug\P03_RestaurantDiscount.csprojResolveAssemblyReference.cache
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P03_RestaurantDiscount\obj\Debug\P03_RestaurantDiscount.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P03_RestaurantDiscount\obj\Debug\P03_RestaurantDiscount.pdb

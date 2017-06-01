@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P04_PhotoGallery\bin\Debug\P04_PhotoGallery.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P04_PhotoGallery\bin\Debug\P04_PhotoGallery.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P04_PhotoGallery\bin\Debug\P04_PhotoGallery.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P04_PhotoGallery\obj\Debug\P04_PhotoGallery.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P04_PhotoGallery\obj\Debug\P04_PhotoGallery.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P04_PhotoGallery\obj\Debug\P04_PhotoGallery.pdb

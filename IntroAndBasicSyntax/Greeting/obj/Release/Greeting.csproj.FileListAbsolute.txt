@@ -1,0 +1,12 @@
+C:\Users\Deyan Yordanov\OneDrive\javaProgramming\C#Programming\Visual C#\Projects\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\Deyan Yordanov\OneDrive\javaProgramming\C#Programming\Visual C#\Projects\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\Deyan Yordanov\OneDrive\javaProgramming\C#Programming\Visual C#\Projects\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\Deyan Yordanov\OneDrive\javaProgramming\C#Programming\Visual C#\Projects\ConsoleApp1\ConsoleApp1\obj\Release\Greeting.csprojResolveAssemblyReference.cache
+C:\Users\Deyan Yordanov\OneDrive\javaProgramming\C#Programming\Visual C#\Projects\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\Deyan Yordanov\OneDrive\javaProgramming\C#Programming\Visual C#\Projects\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\Greeting\bin\Release\ConsoleApp1.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\Greeting\bin\Release\ConsoleApp1.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\Greeting\bin\Release\ConsoleApp1.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\Greeting\obj\Release\Greeting.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\Greeting\obj\Release\ConsoleApp1.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\Greeting\obj\Release\ConsoleApp1.pdb

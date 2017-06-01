@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P08_SMSTyping\bin\Debug\P08_SMSTyping.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P08_SMSTyping\bin\Debug\P08_SMSTyping.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P08_SMSTyping\bin\Debug\P08_SMSTyping.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P08_SMSTyping\obj\Debug\P08_SMSTyping.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P08_SMSTyping\obj\Debug\P08_SMSTyping.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P08_SMSTyping\obj\Debug\P08_SMSTyping.pdb

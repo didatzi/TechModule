@@ -1,0 +1,6 @@
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem1_DebitCardNumber\bin\Debug\Problem1_DebitCardNumber.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem1_DebitCardNumber\bin\Debug\Problem1_DebitCardNumber.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem1_DebitCardNumber\bin\Debug\Problem1_DebitCardNumber.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem1_DebitCardNumber\obj\Debug\Problem1_DebitCardNumber.csprojResolveAssemblyReference.cache
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem1_DebitCardNumber\obj\Debug\Problem1_DebitCardNumber.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem1_DebitCardNumber\obj\Debug\Problem1_DebitCardNumber.pdb

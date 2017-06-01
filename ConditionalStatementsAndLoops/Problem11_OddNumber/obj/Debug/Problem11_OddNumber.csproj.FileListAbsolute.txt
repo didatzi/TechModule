@@ -1,0 +1,5 @@
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem11_OddNumber\bin\Debug\Problem11_OddNumber.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem11_OddNumber\bin\Debug\Problem11_OddNumber.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem11_OddNumber\bin\Debug\Problem11_OddNumber.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem11_OddNumber\obj\Debug\Problem11_OddNumber.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem11_OddNumber\obj\Debug\Problem11_OddNumber.pdb

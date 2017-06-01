@@ -1,0 +1,6 @@
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem4_BeverageLabels\bin\Debug\Problem4_BeverageLabels.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem4_BeverageLabels\bin\Debug\Problem4_BeverageLabels.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem4_BeverageLabels\bin\Debug\Problem4_BeverageLabels.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem4_BeverageLabels\obj\Debug\Problem4_BeverageLabels.csprojResolveAssemblyReference.cache
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem4_BeverageLabels\obj\Debug\Problem4_BeverageLabels.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem4_BeverageLabels\obj\Debug\Problem4_BeverageLabels.pdb

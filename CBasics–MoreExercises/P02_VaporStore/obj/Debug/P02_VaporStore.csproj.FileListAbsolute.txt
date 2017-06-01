@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P02_VaporStore\bin\Debug\P02_VaporStore.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P02_VaporStore\bin\Debug\P02_VaporStore.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P02_VaporStore\bin\Debug\P02_VaporStore.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P02_VaporStore\obj\Debug\P02_VaporStore.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P02_VaporStore\obj\Debug\P02_VaporStore.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\CBasics–MoreExercises\P02_VaporStore\obj\Debug\P02_VaporStore.csprojResolveAssemblyReference.cache

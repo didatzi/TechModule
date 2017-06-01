@@ -1,0 +1,12 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem5_ForeignLanguages\obj\Debug\Problem5_ForeignLanguages.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem5_ForeignLanguages\bin\Debug\Problem5_ForeignLanguages.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem5_ForeignLanguages\bin\Debug\Problem5_ForeignLanguages.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem5_ForeignLanguages\bin\Debug\Problem5_ForeignLanguages.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem5_ForeignLanguages\obj\Debug\Problem5_ForeignLanguages.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem5_ForeignLanguages\obj\Debug\Problem5_ForeignLanguages.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem5_ForeignLanguages\bin\Debug\Problem5_ForeignLanguages.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem5_ForeignLanguages\bin\Debug\Problem5_ForeignLanguages.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem5_ForeignLanguages\bin\Debug\Problem5_ForeignLanguages.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem5_ForeignLanguages\obj\Debug\Problem5_ForeignLanguages.csprojResolveAssemblyReference.cache
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem5_ForeignLanguages\obj\Debug\Problem5_ForeignLanguages.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem5_ForeignLanguages\obj\Debug\Problem5_ForeignLanguages.pdb

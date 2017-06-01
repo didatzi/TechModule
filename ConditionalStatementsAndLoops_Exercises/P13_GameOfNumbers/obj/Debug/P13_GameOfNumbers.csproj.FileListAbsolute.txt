@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P13_GameOfNumbers\bin\Debug\P13_GameOfNumbers.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P13_GameOfNumbers\bin\Debug\P13_GameOfNumbers.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P13_GameOfNumbers\bin\Debug\P13_GameOfNumbers.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P13_GameOfNumbers\obj\Debug\P13_GameOfNumbers.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P13_GameOfNumbers\obj\Debug\P13_GameOfNumbers.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P13_GameOfNumbers\obj\Debug\P13_GameOfNumbers.pdb

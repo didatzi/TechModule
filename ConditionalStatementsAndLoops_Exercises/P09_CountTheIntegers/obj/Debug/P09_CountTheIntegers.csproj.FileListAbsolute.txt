@@ -1,0 +1,5 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P09_CountTheIntegers\bin\Debug\P09_CountTheIntegers.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P09_CountTheIntegers\bin\Debug\P09_CountTheIntegers.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P09_CountTheIntegers\bin\Debug\P09_CountTheIntegers.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P09_CountTheIntegers\obj\Debug\P09_CountTheIntegers.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops_Exercises\P09_CountTheIntegers\obj\Debug\P09_CountTheIntegers.pdb

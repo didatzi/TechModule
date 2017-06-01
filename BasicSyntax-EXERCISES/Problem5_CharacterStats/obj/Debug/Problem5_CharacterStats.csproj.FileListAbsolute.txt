@@ -1,0 +1,6 @@
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem5_CharacterStats\bin\Debug\Problem5_CharacterStats.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem5_CharacterStats\bin\Debug\Problem5_CharacterStats.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem5_CharacterStats\bin\Debug\Problem5_CharacterStats.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem5_CharacterStats\obj\Debug\Problem5_CharacterStats.csprojResolveAssemblyReference.cache
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem5_CharacterStats\obj\Debug\Problem5_CharacterStats.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem5_CharacterStats\obj\Debug\Problem5_CharacterStats.pdb

@@ -1,0 +1,5 @@
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem10_MultiplicationTable2\bin\Debug\Problem10_MultiplicationTable2.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem10_MultiplicationTable2\bin\Debug\Problem10_MultiplicationTable2.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem10_MultiplicationTable2\bin\Debug\Problem10_MultiplicationTable2.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem10_MultiplicationTable2\obj\Debug\Problem10_MultiplicationTable2.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem10_MultiplicationTable2\obj\Debug\Problem10_MultiplicationTable2.pdb

@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P03_ExactSumOfRealNumbers\bin\Debug\P03_ExactSumOfRealNumbers.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P03_ExactSumOfRealNumbers\bin\Debug\P03_ExactSumOfRealNumbers.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P03_ExactSumOfRealNumbers\bin\Debug\P03_ExactSumOfRealNumbers.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P03_ExactSumOfRealNumbers\obj\Debug\P03_ExactSumOfRealNumbers.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P03_ExactSumOfRealNumbers\obj\Debug\P03_ExactSumOfRealNumbers.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_DataTypesAndVariables\P03_ExactSumOfRealNumbers\obj\Debug\P03_ExactSumOfRealNumbers.pdb

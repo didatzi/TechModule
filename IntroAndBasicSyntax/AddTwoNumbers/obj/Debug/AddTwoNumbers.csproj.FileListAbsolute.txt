@@ -1,0 +1,6 @@
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\obj\Debug\AddTwoNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\IntroAndBasicSyntax\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb

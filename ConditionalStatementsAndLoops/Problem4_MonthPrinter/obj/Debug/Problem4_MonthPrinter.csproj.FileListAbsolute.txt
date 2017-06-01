@@ -1,0 +1,5 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem4_MonthPrinter\bin\Debug\Problem4_MonthPrinter.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem4_MonthPrinter\bin\Debug\Problem4_MonthPrinter.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem4_MonthPrinter\bin\Debug\Problem4_MonthPrinter.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem4_MonthPrinter\obj\Debug\Problem4_MonthPrinter.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ConditionalStatementsAndLoops\Problem4_MonthPrinter\obj\Debug\Problem4_MonthPrinter.pdb

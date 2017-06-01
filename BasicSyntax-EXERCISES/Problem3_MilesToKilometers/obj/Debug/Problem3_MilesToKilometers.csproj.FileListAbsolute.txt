@@ -1,0 +1,5 @@
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem3_MilesToKilometers\bin\Debug\Problem3_MilesToKilometers.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem3_MilesToKilometers\bin\Debug\Problem3_MilesToKilometers.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem3_MilesToKilometers\bin\Debug\Problem3_MilesToKilometers.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem3_MilesToKilometers\obj\Debug\Problem3_MilesToKilometers.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem3_MilesToKilometers\obj\Debug\Problem3_MilesToKilometers.pdb

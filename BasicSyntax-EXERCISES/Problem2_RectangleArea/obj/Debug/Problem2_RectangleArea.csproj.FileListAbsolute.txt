@@ -1,0 +1,5 @@
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem2_RectangleArea\bin\Debug\Problem2_RectangleArea.exe.config
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem2_RectangleArea\bin\Debug\Problem2_RectangleArea.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem2_RectangleArea\bin\Debug\Problem2_RectangleArea.pdb
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem2_RectangleArea\obj\Debug\Problem2_RectangleArea.exe
+C:\Users\Deyan Yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\BasicSyntax-EXERCISES\Problem2_RectangleArea\obj\Debug\Problem2_RectangleArea.pdb
