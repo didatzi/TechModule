@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ExamPreparation\Ex01_SinoTheWalker\obj\Debug\Ex01_SinoTheWalker.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ExamPreparation\Ex01_SinoTheWalker\bin\Debug\Ex01_SinoTheWalker.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ExamPreparation\Ex01_SinoTheWalker\bin\Debug\Ex01_SinoTheWalker.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ExamPreparation\Ex01_SinoTheWalker\bin\Debug\Ex01_SinoTheWalker.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ExamPreparation\Ex01_SinoTheWalker\obj\Debug\Ex01_SinoTheWalker.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ExamPreparation\Ex01_SinoTheWalker\obj\Debug\Ex01_SinoTheWalker.pdb

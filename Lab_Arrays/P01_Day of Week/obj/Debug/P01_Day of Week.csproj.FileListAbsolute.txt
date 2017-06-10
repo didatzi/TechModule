@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P01_Day of Week\bin\Debug\P01_Day of Week.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P01_Day of Week\bin\Debug\P01_Day of Week.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P01_Day of Week\bin\Debug\P01_Day of Week.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P01_Day of Week\obj\Debug\P01_Day of Week.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P01_Day of Week\obj\Debug\P01_Day of Week.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P01_Day of Week\obj\Debug\P01_Day of Week.pdb

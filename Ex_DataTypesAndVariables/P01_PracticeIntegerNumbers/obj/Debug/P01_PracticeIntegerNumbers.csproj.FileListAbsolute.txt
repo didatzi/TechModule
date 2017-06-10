@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P01_PracticeIntegerNumbers\bin\Debug\P01_PracticeIntegerNumbers.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P01_PracticeIntegerNumbers\bin\Debug\P01_PracticeIntegerNumbers.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P01_PracticeIntegerNumbers\bin\Debug\P01_PracticeIntegerNumbers.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P01_PracticeIntegerNumbers\obj\Debug\P01_PracticeIntegerNumbers.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P01_PracticeIntegerNumbers\obj\Debug\P01_PracticeIntegerNumbers.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P01_PracticeIntegerNumbers\obj\Debug\P01_PracticeIntegerNumbers.pdb

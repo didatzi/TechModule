@@ -1,0 +1,5 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P05_BooleanVariable\bin\Debug\P05_BooleanVariable.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P05_BooleanVariable\bin\Debug\P05_BooleanVariable.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P05_BooleanVariable\bin\Debug\P05_BooleanVariable.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P05_BooleanVariable\obj\Debug\P05_BooleanVariable.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P05_BooleanVariable\obj\Debug\P05_BooleanVariable.pdb

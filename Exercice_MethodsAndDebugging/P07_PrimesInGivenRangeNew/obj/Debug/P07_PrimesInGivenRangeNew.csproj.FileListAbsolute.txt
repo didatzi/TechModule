@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P07_PrimesInGivenRangeNew\bin\Debug\P07_PrimesInGivenRangeNew.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P07_PrimesInGivenRangeNew\bin\Debug\P07_PrimesInGivenRangeNew.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P07_PrimesInGivenRangeNew\bin\Debug\P07_PrimesInGivenRangeNew.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P07_PrimesInGivenRangeNew\obj\Debug\P07_PrimesInGivenRangeNew.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P07_PrimesInGivenRangeNew\obj\Debug\P07_PrimesInGivenRangeNew.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P07_PrimesInGivenRangeNew\obj\Debug\P07_PrimesInGivenRangeNew.pdb

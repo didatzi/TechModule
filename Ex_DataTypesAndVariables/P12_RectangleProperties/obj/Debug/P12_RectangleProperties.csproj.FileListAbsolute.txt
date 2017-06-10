@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P12_RectangleProperties\bin\Debug\P12_RectangleProperties.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P12_RectangleProperties\bin\Debug\P12_RectangleProperties.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P12_RectangleProperties\bin\Debug\P12_RectangleProperties.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P12_RectangleProperties\obj\Debug\P12_RectangleProperties.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P12_RectangleProperties\obj\Debug\P12_RectangleProperties.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P12_RectangleProperties\obj\Debug\P12_RectangleProperties.pdb

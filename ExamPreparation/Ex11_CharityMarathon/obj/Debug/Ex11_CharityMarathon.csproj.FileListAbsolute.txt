@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ExamPreparation\Ex11_CharityMarathon\bin\Debug\Ex11_CharityMarathon.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ExamPreparation\Ex11_CharityMarathon\bin\Debug\Ex11_CharityMarathon.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ExamPreparation\Ex11_CharityMarathon\bin\Debug\Ex11_CharityMarathon.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ExamPreparation\Ex11_CharityMarathon\obj\Debug\Ex11_CharityMarathon.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ExamPreparation\Ex11_CharityMarathon\obj\Debug\Ex11_CharityMarathon.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\ExamPreparation\Ex11_CharityMarathon\obj\Debug\Ex11_CharityMarathon.csprojResolveAssemblyReference.cache

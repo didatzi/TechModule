@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P12_Master Numbers\bin\Debug\P12_Master Numbers.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P12_Master Numbers\bin\Debug\P12_Master Numbers.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P12_Master Numbers\bin\Debug\P12_Master Numbers.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P12_Master Numbers\obj\Debug\P12_Master Numbers.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P12_Master Numbers\obj\Debug\P12_Master Numbers.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P12_Master Numbers\obj\Debug\P12_Master Numbers.pdb

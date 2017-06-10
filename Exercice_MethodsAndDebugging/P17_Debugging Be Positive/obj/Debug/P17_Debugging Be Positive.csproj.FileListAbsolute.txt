@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P17_Debugging Be Positive\bin\Debug\P17_Debugging Be Positive.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P17_Debugging Be Positive\bin\Debug\P17_Debugging Be Positive.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P17_Debugging Be Positive\bin\Debug\P17_Debugging Be Positive.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P17_Debugging Be Positive\obj\Debug\P17_Debugging Be Positive.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P17_Debugging Be Positive\obj\Debug\P17_Debugging Be Positive.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P17_Debugging Be Positive\obj\Debug\P17_Debugging Be Positive.csprojResolveAssemblyReference.cache

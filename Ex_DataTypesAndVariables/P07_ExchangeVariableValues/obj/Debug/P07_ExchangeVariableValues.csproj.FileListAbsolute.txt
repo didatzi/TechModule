@@ -1,0 +1,12 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P07_ExchangeVariableValues\bin\Debug\P07_ExchangeVariableValues.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P07_ExchangeVariableValues\bin\Debug\P07_ExchangeVariableValues.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P07_ExchangeVariableValues\bin\Debug\P07_ExchangeVariableValues.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P07_ExchangeVariableValues\obj\Debug\P07_ExchangeVariableValues.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P07_ExchangeVariableValues\obj\Debug\P07_ExchangeVariableValues.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P07_ExchangeVariableValues\obj\Debug\P07_ExchangeVariableValues.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P07_ExchangeVariableValues\bin\Debug\P07_ExchangeVariableValues.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P07_ExchangeVariableValues\bin\Debug\P07_ExchangeVariableValues.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P07_ExchangeVariableValues\bin\Debug\P07_ExchangeVariableValues.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P07_ExchangeVariableValues\obj\Debug\P07_ExchangeVariableValues.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P07_ExchangeVariableValues\obj\Debug\P07_ExchangeVariableValues.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P07_ExchangeVariableValues\obj\Debug\P07_ExchangeVariableValues.pdb

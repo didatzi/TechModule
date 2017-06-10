@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P05_FibonacciNumbers\bin\Debug\P05_FibonacciNumbers.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P05_FibonacciNumbers\bin\Debug\P05_FibonacciNumbers.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P05_FibonacciNumbers\bin\Debug\P05_FibonacciNumbers.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P05_FibonacciNumbers\obj\Debug\P05_FibonacciNumbers.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P05_FibonacciNumbers\obj\Debug\P05_FibonacciNumbers.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P05_FibonacciNumbers\obj\Debug\P05_FibonacciNumbers.pdb

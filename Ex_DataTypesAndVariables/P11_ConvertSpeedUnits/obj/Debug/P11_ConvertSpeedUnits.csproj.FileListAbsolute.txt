@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P11_ConvertSpeedUnits\bin\Debug\P11_ConvertSpeedUnits.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P11_ConvertSpeedUnits\bin\Debug\P11_ConvertSpeedUnits.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P11_ConvertSpeedUnits\bin\Debug\P11_ConvertSpeedUnits.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P11_ConvertSpeedUnits\obj\Debug\P11_ConvertSpeedUnits.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P11_ConvertSpeedUnits\obj\Debug\P11_ConvertSpeedUnits.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P11_ConvertSpeedUnits\obj\Debug\P11_ConvertSpeedUnits.pdb

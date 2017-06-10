@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P18_DifferentIntegersSize\bin\Debug\P18_DifferentIntegersSize.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P18_DifferentIntegersSize\bin\Debug\P18_DifferentIntegersSize.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P18_DifferentIntegersSize\bin\Debug\P18_DifferentIntegersSize.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P18_DifferentIntegersSize\obj\Debug\P18_DifferentIntegersSize.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P18_DifferentIntegersSize\obj\Debug\P18_DifferentIntegersSize.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P18_DifferentIntegersSize\obj\Debug\P18_DifferentIntegersSize.pdb

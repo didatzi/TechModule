@@ -1,0 +1,5 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P03_LastKNumbersSums\bin\Debug\P03_LastKNumbersSums.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P03_LastKNumbersSums\bin\Debug\P03_LastKNumbersSums.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P03_LastKNumbersSums\bin\Debug\P03_LastKNumbersSums.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P03_LastKNumbersSums\obj\Debug\P03_LastKNumbersSums.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P03_LastKNumbersSums\obj\Debug\P03_LastKNumbersSums.pdb

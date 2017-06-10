@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P03_WaterOverflow\bin\Debug\P03_WaterOverflow.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P03_WaterOverflow\bin\Debug\P03_WaterOverflow.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P03_WaterOverflow\bin\Debug\P03_WaterOverflow.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P03_WaterOverflow\obj\Debug\P03_WaterOverflow.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P03_WaterOverflow\obj\Debug\P03_WaterOverflow.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P03_WaterOverflow\obj\Debug\P03_WaterOverflow.pdb

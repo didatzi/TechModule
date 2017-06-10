@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P18_Sequence of Commands\bin\Debug\P18_Sequence of Commands.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P18_Sequence of Commands\bin\Debug\P18_Sequence of Commands.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P18_Sequence of Commands\bin\Debug\P18_Sequence of Commands.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P18_Sequence of Commands\obj\Debug\P18_Sequence of Commands.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P18_Sequence of Commands\obj\Debug\P18_Sequence of Commands.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P18_Sequence of Commands\obj\Debug\P18_DebuggingSequence of Commands.csprojResolveAssemblyReference.cache

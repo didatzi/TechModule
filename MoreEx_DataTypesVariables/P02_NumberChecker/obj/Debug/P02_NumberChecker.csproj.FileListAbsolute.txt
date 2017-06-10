@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P02_NumberChecker\bin\Debug\P02_NumberChecker.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P02_NumberChecker\bin\Debug\P02_NumberChecker.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P02_NumberChecker\bin\Debug\P02_NumberChecker.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P02_NumberChecker\obj\Debug\P02_NumberChecker.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P02_NumberChecker\obj\Debug\P02_NumberChecker.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P02_NumberChecker\obj\Debug\P02_NumberChecker.pdb

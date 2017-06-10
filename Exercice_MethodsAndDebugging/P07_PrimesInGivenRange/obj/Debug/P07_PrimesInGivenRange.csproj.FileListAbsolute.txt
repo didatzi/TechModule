@@ -1,0 +1,5 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P07_PrimesInGivenRange\bin\Debug\P07_PrimesInGivenRange.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P07_PrimesInGivenRange\bin\Debug\P07_PrimesInGivenRange.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P07_PrimesInGivenRange\bin\Debug\P07_PrimesInGivenRange.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P07_PrimesInGivenRange\obj\Debug\P07_PrimesInGivenRange.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P07_PrimesInGivenRange\obj\Debug\P07_PrimesInGivenRange.pdb

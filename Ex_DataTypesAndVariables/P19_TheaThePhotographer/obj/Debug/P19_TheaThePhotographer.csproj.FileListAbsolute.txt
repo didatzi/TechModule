@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P19_TheaThePhotographer\bin\Debug\P19_TheaThePhotographer.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P19_TheaThePhotographer\bin\Debug\P19_TheaThePhotographer.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P19_TheaThePhotographer\bin\Debug\P19_TheaThePhotographer.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P19_TheaThePhotographer\obj\Debug\P19_TheaThePhotographer.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P19_TheaThePhotographer\obj\Debug\P19_TheaThePhotographer.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P19_TheaThePhotographer\obj\Debug\P19_TheaThePhotographer.pdb

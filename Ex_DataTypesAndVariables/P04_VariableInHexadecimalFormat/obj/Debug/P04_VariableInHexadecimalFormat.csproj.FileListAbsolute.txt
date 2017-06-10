@@ -1,0 +1,12 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P04_VariableInHexadecimalFormat\bin\Debug\P04_VariableInHexadecimalFormat.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P04_VariableInHexadecimalFormat\bin\Debug\P04_VariableInHexadecimalFormat.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P04_VariableInHexadecimalFormat\bin\Debug\P04_VariableInHexadecimalFormat.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P04_VariableInHexadecimalFormat\obj\Debug\P04_VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P04_VariableInHexadecimalFormat\obj\Debug\P04_VariableInHexadecimalFormat.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P04_VariableInHexadecimalFormat\obj\Debug\P04_VariableInHexadecimalFormat.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P04_VariableInHexadecimalFormat\bin\Debug\P04_VariableInHexadecimalFormat.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P04_VariableInHexadecimalFormat\bin\Debug\P04_VariableInHexadecimalFormat.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P04_VariableInHexadecimalFormat\bin\Debug\P04_VariableInHexadecimalFormat.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P04_VariableInHexadecimalFormat\obj\Debug\P04_VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P04_VariableInHexadecimalFormat\obj\Debug\P04_VariableInHexadecimalFormat.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P04_VariableInHexadecimalFormat\obj\Debug\P04_VariableInHexadecimalFormat.pdb

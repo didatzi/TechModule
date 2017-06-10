@@ -1,0 +1,5 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P03_EnglishNameOfLastDigit\bin\Debug\P03_EnglishNameOfLastDigit.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P03_EnglishNameOfLastDigit\bin\Debug\P03_EnglishNameOfLastDigit.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P03_EnglishNameOfLastDigit\bin\Debug\P03_EnglishNameOfLastDigit.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P03_EnglishNameOfLastDigit\obj\Debug\P03_EnglishNameOfLastDigit.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P03_EnglishNameOfLastDigit\obj\Debug\P03_EnglishNameOfLastDigit.pdb

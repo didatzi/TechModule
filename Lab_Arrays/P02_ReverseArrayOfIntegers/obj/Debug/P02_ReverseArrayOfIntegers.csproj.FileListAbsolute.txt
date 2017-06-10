@@ -1,0 +1,5 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P02_ReverseArrayOfIntegers\bin\Debug\P02_ReverseArrayOfIntegers.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P02_ReverseArrayOfIntegers\bin\Debug\P02_ReverseArrayOfIntegers.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P02_ReverseArrayOfIntegers\bin\Debug\P02_ReverseArrayOfIntegers.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P02_ReverseArrayOfIntegers\obj\Debug\P02_ReverseArrayOfIntegers.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P02_ReverseArrayOfIntegers\obj\Debug\P02_ReverseArrayOfIntegers.pdb

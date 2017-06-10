@@ -1,0 +1,5 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P15_FastPrimeChecker-Refactor\bin\Debug\P15_FastPrimeChecker-Refactor.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P15_FastPrimeChecker-Refactor\bin\Debug\P15_FastPrimeChecker-Refactor.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P15_FastPrimeChecker-Refactor\bin\Debug\P15_FastPrimeChecker-Refactor.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P15_FastPrimeChecker-Refactor\obj\Debug\P15_FastPrimeChecker-Refactor.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P15_FastPrimeChecker-Refactor\obj\Debug\P15_FastPrimeChecker-Refactor.pdb

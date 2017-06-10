@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P17_PrintPartASCIITable\bin\Debug\P17_PrintPartASCIITable.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P17_PrintPartASCIITable\bin\Debug\P17_PrintPartASCIITable.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P17_PrintPartASCIITable\bin\Debug\P17_PrintPartASCIITable.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P17_PrintPartASCIITable\obj\Debug\P17_PrintPartASCIITable.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P17_PrintPartASCIITable\obj\Debug\P17_PrintPartASCIITable.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P17_PrintPartASCIITable\obj\Debug\P17_PrintPartASCIITable.pdb

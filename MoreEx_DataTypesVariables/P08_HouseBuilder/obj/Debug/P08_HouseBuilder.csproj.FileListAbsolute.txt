@@ -1,0 +1,5 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P08_HouseBuilder\bin\Debug\P08_HouseBuilder.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P08_HouseBuilder\bin\Debug\P08_HouseBuilder.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P08_HouseBuilder\bin\Debug\P08_HouseBuilder.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P08_HouseBuilder\obj\Debug\P08_HouseBuilder.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P08_HouseBuilder\obj\Debug\P08_HouseBuilder.pdb

@@ -1,0 +1,5 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P04_NumbersInReversedOrder\bin\Debug\P04_NumbersInReversedOrder.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P04_NumbersInReversedOrder\bin\Debug\P04_NumbersInReversedOrder.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P04_NumbersInReversedOrder\bin\Debug\P04_NumbersInReversedOrder.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P04_NumbersInReversedOrder\obj\Debug\P04_NumbersInReversedOrder.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P04_NumbersInReversedOrder\obj\Debug\P04_NumbersInReversedOrder.pdb

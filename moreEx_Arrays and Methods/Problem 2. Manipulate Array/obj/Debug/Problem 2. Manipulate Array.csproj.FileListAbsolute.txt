@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\moreEx_Arrays and Methods\Problem 2. Manipulate Array\bin\Debug\Problem_2.Manipulate_Array.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\moreEx_Arrays and Methods\Problem 2. Manipulate Array\bin\Debug\Problem_2.Manipulate_Array.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\moreEx_Arrays and Methods\Problem 2. Manipulate Array\bin\Debug\Problem_2.Manipulate_Array.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\moreEx_Arrays and Methods\Problem 2. Manipulate Array\obj\Debug\Problem 2. Manipulate Array.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\moreEx_Arrays and Methods\Problem 2. Manipulate Array\obj\Debug\Problem_2.Manipulate_Array.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\moreEx_Arrays and Methods\Problem 2. Manipulate Array\obj\Debug\Problem_2.Manipulate_Array.pdb

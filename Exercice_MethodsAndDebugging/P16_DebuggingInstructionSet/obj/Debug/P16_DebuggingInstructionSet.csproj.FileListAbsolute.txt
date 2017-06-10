@@ -1,0 +1,5 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P16_DebuggingInstructionSet\bin\Debug\P16_DebuggingInstructionSet.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P16_DebuggingInstructionSet\bin\Debug\P16_DebuggingInstructionSet.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P16_DebuggingInstructionSet\bin\Debug\P16_DebuggingInstructionSet.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P16_DebuggingInstructionSet\obj\Debug\P16_DebuggingInstructionSet.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P16_DebuggingInstructionSet\obj\Debug\P16_DebuggingInstructionSet.pdb

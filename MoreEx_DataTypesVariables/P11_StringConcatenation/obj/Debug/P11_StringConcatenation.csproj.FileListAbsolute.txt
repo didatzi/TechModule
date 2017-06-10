@@ -1,0 +1,5 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P11_StringConcatenation\bin\Debug\P11_StringConcatenation.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P11_StringConcatenation\bin\Debug\P11_StringConcatenation.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P11_StringConcatenation\bin\Debug\P11_StringConcatenation.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P11_StringConcatenation\obj\Debug\P11_StringConcatenation.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P11_StringConcatenation\obj\Debug\P11_StringConcatenation.pdb

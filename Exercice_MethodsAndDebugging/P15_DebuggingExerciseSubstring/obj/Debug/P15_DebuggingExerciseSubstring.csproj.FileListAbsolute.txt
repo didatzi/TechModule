@@ -1,0 +1,5 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P15_DebuggingExerciseSubstring\bin\Debug\P15_DebuggingExerciseSubstring.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P15_DebuggingExerciseSubstring\bin\Debug\P15_DebuggingExerciseSubstring.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P15_DebuggingExerciseSubstring\bin\Debug\P15_DebuggingExerciseSubstring.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P15_DebuggingExerciseSubstring\obj\Debug\P15_DebuggingExerciseSubstring.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P15_DebuggingExerciseSubstring\obj\Debug\P15_DebuggingExerciseSubstring.pdb

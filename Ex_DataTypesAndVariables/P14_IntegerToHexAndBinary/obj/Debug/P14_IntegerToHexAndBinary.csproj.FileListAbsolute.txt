@@ -1,0 +1,5 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P14_IntegerToHexAndBinary\bin\Debug\P14_IntegerToHexAndBinary.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P14_IntegerToHexAndBinary\bin\Debug\P14_IntegerToHexAndBinary.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P14_IntegerToHexAndBinary\bin\Debug\P14_IntegerToHexAndBinary.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P14_IntegerToHexAndBinary\obj\Debug\P14_IntegerToHexAndBinary.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P14_IntegerToHexAndBinary\obj\Debug\P14_IntegerToHexAndBinary.pdb

@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P04_TouristInformation\bin\Debug\P04_TouristInformation.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P04_TouristInformation\bin\Debug\P04_TouristInformation.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P04_TouristInformation\bin\Debug\P04_TouristInformation.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P04_TouristInformation\obj\Debug\P04_TouristInformation.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P04_TouristInformation\obj\Debug\P04_TouristInformation.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P04_TouristInformation\obj\Debug\P04_TouristInformation.pdb

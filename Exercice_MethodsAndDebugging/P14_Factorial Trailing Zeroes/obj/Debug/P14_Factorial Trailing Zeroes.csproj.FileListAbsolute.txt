@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P14_Factorial Trailing Zeroes\bin\Debug\P14_Factorial Trailing Zeroes.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P14_Factorial Trailing Zeroes\bin\Debug\P14_Factorial Trailing Zeroes.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P14_Factorial Trailing Zeroes\bin\Debug\P14_Factorial Trailing Zeroes.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P14_Factorial Trailing Zeroes\obj\Debug\P14_Factorial Trailing Zeroes.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P14_Factorial Trailing Zeroes\obj\Debug\P14_Factorial Trailing Zeroes.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercice_MethodsAndDebugging\P14_Factorial Trailing Zeroes\obj\Debug\P14_Factorial Trailing Zeroes.pdb

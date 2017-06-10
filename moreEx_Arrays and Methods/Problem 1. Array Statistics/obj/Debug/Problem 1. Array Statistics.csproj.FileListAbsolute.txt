@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\moreEx_Arrays and Methods\Problem 1. Array Statistics\bin\Debug\Problem_1.Array_Statistics.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\moreEx_Arrays and Methods\Problem 1. Array Statistics\bin\Debug\Problem_1.Array_Statistics.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\moreEx_Arrays and Methods\Problem 1. Array Statistics\bin\Debug\Problem_1.Array_Statistics.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\moreEx_Arrays and Methods\Problem 1. Array Statistics\obj\Debug\Problem 1. Array Statistics.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\moreEx_Arrays and Methods\Problem 1. Array Statistics\obj\Debug\Problem_1.Array_Statistics.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\moreEx_Arrays and Methods\Problem 1. Array Statistics\obj\Debug\Problem_1.Array_Statistics.pdb

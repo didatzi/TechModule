@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P10_CenturiesToNanoseconds\bin\Debug\P10_CenturiesToNanoseconds.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P10_CenturiesToNanoseconds\bin\Debug\P10_CenturiesToNanoseconds.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P10_CenturiesToNanoseconds\bin\Debug\P10_CenturiesToNanoseconds.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P10_CenturiesToNanoseconds\obj\Debug\P10_CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P10_CenturiesToNanoseconds\obj\Debug\P10_CenturiesToNanoseconds.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Ex_DataTypesAndVariables\P10_CenturiesToNanoseconds\obj\Debug\P10_CenturiesToNanoseconds.pdb

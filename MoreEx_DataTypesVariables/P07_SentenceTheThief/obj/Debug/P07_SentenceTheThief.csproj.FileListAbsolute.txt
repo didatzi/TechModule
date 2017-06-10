@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P07_SentenceTheThief\bin\Debug\P07_SentenceTheThief.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P07_SentenceTheThief\bin\Debug\P07_SentenceTheThief.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P07_SentenceTheThief\bin\Debug\P07_SentenceTheThief.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P07_SentenceTheThief\obj\Debug\P07_SentenceTheThief.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P07_SentenceTheThief\obj\Debug\P07_SentenceTheThief.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P07_SentenceTheThief\obj\Debug\P07_SentenceTheThief.pdb

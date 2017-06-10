@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P15_BalancedBrackets\bin\Debug\P15_BalancedBrackets.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P15_BalancedBrackets\bin\Debug\P15_BalancedBrackets.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P15_BalancedBrackets\bin\Debug\P15_BalancedBrackets.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P15_BalancedBrackets\obj\Debug\P15_BalancedBrackets.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P15_BalancedBrackets\obj\Debug\P15_BalancedBrackets.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P15_BalancedBrackets\obj\Debug\P15_BalancedBrackets.pdb

@@ -1,0 +1,5 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P09_ MakeAWord\bin\Debug\P09_ MakeAWord.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P09_ MakeAWord\bin\Debug\P09_ MakeAWord.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P09_ MakeAWord\bin\Debug\P09_ MakeAWord.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P09_ MakeAWord\obj\Debug\P09_ MakeAWord.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P09_ MakeAWord\obj\Debug\P09_ MakeAWord.pdb

@@ -1,0 +1,6 @@
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P14_BoatSimulator\bin\Debug\P14_BoatSimulator.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P14_BoatSimulator\bin\Debug\P14_BoatSimulator.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P14_BoatSimulator\bin\Debug\P14_BoatSimulator.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P14_BoatSimulator\obj\Debug\P14_BoatSimulator.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P14_BoatSimulator\obj\Debug\P14_BoatSimulator.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P14_BoatSimulator\obj\Debug\P14_BoatSimulator.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Array Statistics", "Problem 1. Array Statistics\Problem 1. Array Statistics.csproj", "{58E23343-4B13-4C83-B31E-A284DC0E016B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Manipulate Array", "Problem 2. Manipulate Array\Problem 2. Manipulate Array.csproj", "{8E6A7A2D-D771-40D7-932D-4951A97336D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58E23343-4B13-4C83-B31E-A284DC0E016B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E23343-4B13-4C83-B31E-A284DC0E016B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E23343-4B13-4C83-B31E-A284DC0E016B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E23343-4B13-4C83-B31E-A284DC0E016B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E6A7A2D-D771-40D7-932D-4951A97336D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E6A7A2D-D771-40D7-932D-4951A97336D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E6A7A2D-D771-40D7-932D-4951A97336D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E6A7A2D-D771-40D7-932D-4951A97336D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

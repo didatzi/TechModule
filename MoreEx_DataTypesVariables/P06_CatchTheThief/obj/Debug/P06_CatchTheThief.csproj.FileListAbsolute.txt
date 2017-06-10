@@ -1,0 +1,12 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P06_CatchTheThief\bin\Debug\P06_CatchTheThief.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P06_CatchTheThief\bin\Debug\P06_CatchTheThief.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P06_CatchTheThief\bin\Debug\P06_CatchTheThief.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P06_CatchTheThief\obj\Debug\P06_CatchTheThief.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P06_CatchTheThief\obj\Debug\P06_CatchTheThief.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P06_CatchTheThief\obj\Debug\P06_CatchTheThief.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P06_CatchTheThief\bin\Debug\P06_CatchTheThief.exe.config
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P06_CatchTheThief\bin\Debug\P06_CatchTheThief.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P06_CatchTheThief\bin\Debug\P06_CatchTheThief.pdb
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P06_CatchTheThief\obj\Debug\P06_CatchTheThief.csprojResolveAssemblyReference.cache
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P06_CatchTheThief\obj\Debug\P06_CatchTheThief.exe
+D:\SkyDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P06_CatchTheThief\obj\Debug\P06_CatchTheThief.pdb

@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P04_Triple Sum\bin\Debug\P04_Triple Sum.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P04_Triple Sum\bin\Debug\P04_Triple Sum.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P04_Triple Sum\bin\Debug\P04_Triple Sum.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P04_Triple Sum\obj\Debug\P04_Triple Sum.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P04_Triple Sum\obj\Debug\P04_Triple Sum.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_Arrays\P04_Triple Sum\obj\Debug\P04_Triple Sum.csprojResolveAssemblyReference.cache

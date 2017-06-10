@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercises - Arrays\P02_Rotate and Sum\bin\Debug\P02_Rotate and Sum.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercises - Arrays\P02_Rotate and Sum\bin\Debug\P02_Rotate and Sum.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercises - Arrays\P02_Rotate and Sum\bin\Debug\P02_Rotate and Sum.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercises - Arrays\P02_Rotate and Sum\obj\Debug\P02_Rotate and Sum.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercises - Arrays\P02_Rotate and Sum\obj\Debug\P02_Rotate and Sum.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Exercises - Arrays\P02_Rotate and Sum\obj\Debug\P02_Rotate and Sum.csprojResolveAssemblyReference.cache

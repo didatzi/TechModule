@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_MethodsAndDebugging\P01_BlankReceipt\bin\Debug\P01_BlankReceipt.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_MethodsAndDebugging\P01_BlankReceipt\bin\Debug\P01_BlankReceipt.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_MethodsAndDebugging\P01_BlankReceipt\bin\Debug\P01_BlankReceipt.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_MethodsAndDebugging\P01_BlankReceipt\obj\Debug\P01_BlankReceipt.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_MethodsAndDebugging\P01_BlankReceipt\obj\Debug\P01_BlankReceipt.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_MethodsAndDebugging\P01_BlankReceipt\obj\Debug\P01_BlankReceipt.pdb

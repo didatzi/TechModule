@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P01_NumeralTypesConversion\bin\Debug\P01_NumeralTypesConversion.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P01_NumeralTypesConversion\bin\Debug\P01_NumeralTypesConversion.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P01_NumeralTypesConversion\bin\Debug\P01_NumeralTypesConversion.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P01_NumeralTypesConversion\obj\Debug\P01_TypeBoundaries.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P01_NumeralTypesConversion\obj\Debug\P01_NumeralTypesConversion.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\MoreEx_DataTypesVariables\P01_NumeralTypesConversion\obj\Debug\P01_NumeralTypesConversion.pdb

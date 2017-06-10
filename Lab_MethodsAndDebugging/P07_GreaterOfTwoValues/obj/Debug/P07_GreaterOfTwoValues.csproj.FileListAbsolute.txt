@@ -1,0 +1,6 @@
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_MethodsAndDebugging\P07_GreaterOfTwoValues\bin\Debug\P07_GreaterOfTwoValues.exe.config
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_MethodsAndDebugging\P07_GreaterOfTwoValues\bin\Debug\P07_GreaterOfTwoValues.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_MethodsAndDebugging\P07_GreaterOfTwoValues\bin\Debug\P07_GreaterOfTwoValues.pdb
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_MethodsAndDebugging\P07_GreaterOfTwoValues\obj\Debug\P07_GreaterOfTwoValues.csprojResolveAssemblyReference.cache
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_MethodsAndDebugging\P07_GreaterOfTwoValues\obj\Debug\P07_GreaterOfTwoValues.exe
+c:\users\deyan yordanov\OneDrive\ProgrammingSoftUni\C#Programming\Visual C#\Projects\Lab_MethodsAndDebugging\P07_GreaterOfTwoValues\obj\Debug\P07_GreaterOfTwoValues.pdb
